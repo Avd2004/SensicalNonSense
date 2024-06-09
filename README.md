@@ -26,6 +26,8 @@ Answer:  ICE BREAKER
 Corpus Analysis/Overview
 
 Total Tokens: 101619
+
 Unique Words (Types): 8783
+
 Number of Hapax Legomena: 4225
 
