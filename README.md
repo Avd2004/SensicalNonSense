@@ -6,6 +6,8 @@ Step 1: Creating a Corpus:
 Finding a playlist of episodes of the SNL Weekend update, we extract the video ID from the videos. The characters after 'v=' in a youtuve video link identifies the video ID. We extract this ID as a substring. We use YouTube Data API to get the video subtitles transcript as a json file. 
 This json files has text along with duration and timestamps of each dialogue, we remove the timestamps and save the texts as a .txt file. This forms our Corpus.
 
+We then clean the data or unnecesary characters and empty lines.
+
 Step 2: Tokenization of Corpus:
 
 We use NLTK library to form tokens using sentence grammar and punctuations.
