@@ -20,6 +20,9 @@ Step 4: Testing:
 
 We notice that in intial runs when we give smaller videos to train the model, it giver wierd replies, but as we increase the dataset, we start to get sensible, yet satirical answers, thus the name SensicalNonSense.
 
+Question: How is the weather?
+Answer:  ICE BREAKER
+
 Corpus Analysis/Overview
 
 Total Tokens: 101619
