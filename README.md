@@ -8,7 +8,7 @@ This json files has text along with duration and timestamps of each dialogue, we
 
 Step 2: Tokenization of Corpus:
 
-We use NLTK library to form tokens using sentence grammar and punctuations
+We use NLTK library to form tokens using sentence grammar and punctuations.
 
 Step 3: Usin Hugging-Face tokens:
 
